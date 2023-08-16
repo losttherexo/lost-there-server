@@ -11,6 +11,9 @@ flask-sqlalchemy = "*"
 flask-migrate = "*"
 sqlalchemy-serializer = "*"
 flask-restful = "*"
+flask-cors = "*"
+python-dotenv = "*"
+mailchimp-marketing = "*"
 
 [dev-packages]
 
