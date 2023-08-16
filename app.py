@@ -2,6 +2,7 @@ from flask import jsonify, make_response
 from flask_restful import Resource
 
 from config import api, app
+from models import Show, Blog
 
 class Home(Resource):
 
