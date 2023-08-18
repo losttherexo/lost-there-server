@@ -7,7 +7,7 @@ from models import Show, Blog
 class Home(Resource):
 
     def get(self):
-        return 'mahalo'
+        return 'welcome to the lost,there server'
     
 class Shows(Resource):
     def get(self):
